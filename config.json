@@ -4,7 +4,7 @@
   "demo_now": null,
 
   "excel": "data/raw/Programa_32IIT.xlsx",
-  "diccionario": "data/Diccionario_Datos_Semana_Ingenieria.xlsx",
+  "diccionario": "Diccionario_Datos_Semana_Ingenieria.xlsx",
   "extras": "data/extras.csv",
   "fila_encabezado_excel": 9,
   "fecha_min": "2024-01-01",
